@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">极简.诗</string>
+    <string name="search_hint_text">按标题搜索</string>
+
+    <string name="poem_title">春江花月夜</string>
+    <string name="poem_author">张若虚</string>
+    <string name="poem_content">
+        春江潮水连海平\n海上明月共潮生\n不知乘月几人归\n落月摇情满江树
+    </string>
+</resources>
